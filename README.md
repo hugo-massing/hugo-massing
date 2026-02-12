@@ -67,6 +67,5 @@ When I’m not coding, I’m often producing music, DJing, exploring photography
 
 📫 **Let’s connect!**  
 📍 [Tours, France]  
-📧 [hugo.massing@gmail.com](mailto:hugo.massing@gmail.com)  
 
 > *"Building thoughtful interfaces, one pixel at a time."*
